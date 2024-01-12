@@ -8,4 +8,5 @@
 | | p2hacks | スタッフ兼メンターとして参加 | | |
 
 ### 関連リンク
-[Wantedly](https://www.wantedly.com/id/satoshi_kawahira)
+[Wantedly](https://www.wantedly.com/id/satoshi_kawahira)  
+[LAPRAS](https://lapras.com/public/OS3QBSA)
