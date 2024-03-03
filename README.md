@@ -6,6 +6,7 @@
 | 2021 | HackU Kosen2021 | 災害時に避難経路を自動で通知するLINE Bot |  | [Gitリポジトリ](https://github.com/hashiba-k-jp/hakodate-a05) |
 | 2023 | Hack With Hakodate | マルチリンガルかつ画像認識を用いることによってゴミ捨てを支援するサービス | 受賞　 | [Gitリポジトリ](https://github.com/rgga-16/Hakodate-Hackathon) |
 | | p2hacks | スタッフ兼メンターとして参加 | | |
+| 2024 | PR TIMES HACKATHON 2024 Winter | プレスリリースを時系列で地図にマッピングするサービス | チーム賞受賞 | |
 
 ### 関連リンク
 [Wantedly](https://www.wantedly.com/id/satoshi_kawahira)  
