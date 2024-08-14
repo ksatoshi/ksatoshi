@@ -31,7 +31,7 @@
 
 ### 関連リンク
 [Wantedly](https://www.wantedly.com/id/satoshi_kawahira)  
-[LAPRAS](https://lapras.com/public/OS3QBSA)
-[portfolio](https://www.ksatoshi.dev/)
-[blog](https://ksatoshi.hatenablog.com)
-[zenn](https://zenn.dev/ksatoshi)
+[LAPRAS](https://lapras.com/public/OS3QBSA)  
+[portfolio](https://www.ksatoshi.dev/)  
+[blog](https://ksatoshi.hatenablog.com)  
+[zenn](https://zenn.dev/ksatoshi)  
