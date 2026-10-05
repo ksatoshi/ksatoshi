@@ -14,21 +14,6 @@
 | 2023/8 | 2023/8 | Androidアプリ制作 | 
 | 2023/11 | 2024/8 | Webバックエンドエンジニア(& frontも少し) |
 
-### Skill
-#### Programming Languages
-- C
-- C#
-- TypeScript
-- PHP
-- Python
-
-#### Hardware and Library
-- ROS2
-- micro-ros
-- esp32
-- arduino
-- esp-idf
-
 ### 関連リンク
 [Wantedly](https://www.wantedly.com/id/satoshi_kawahira)  
 [LAPRAS](https://lapras.com/public/OS3QBSA)  
